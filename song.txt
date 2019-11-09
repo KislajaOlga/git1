@@ -8,4 +8,10 @@ regb regb
 gtsdf
 gfdgd
 gfd
+<<<<<<< HEAD
 на пк
+=======
+11
+12
+13
+>>>>>>> ca1c791143dfa0655da6f9445d1cb29ec3285812
