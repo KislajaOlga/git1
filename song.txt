@@ -1,2 +1,8 @@
 kjdskitgupi
+<<<<<<< HEAD
 gbe gbe
+=======
+regb regb
+3 строка
+4 строка
+>>>>>>> 49cddcb3fc3836361109814a6dd1d9071f5f2478
